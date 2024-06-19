@@ -1,4 +1,4 @@
-# baseballReferenceAnalyticWebScraper
+# Baseball Reference Web scraper
 
 This program scrapes data from [baseball-reference.com](https://www.baseball-reference.com/), which contains various 
 stats of previous, and current baseball players. 
